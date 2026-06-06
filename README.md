@@ -1,5 +1,8 @@
 # CU-Quartet - Ableton Extension
 
+<img width="770" height="418" alt="cu-quartet-screenshot" src="https://github.com/user-attachments/assets/dea67b37-fc57-42c9-b56f-237342d54923" />
+
+
 CU-Quartet is an extension for Ableton Live, built using the Ableton Extensions SDK. It rewrites midi clips with quartet harmony and revoicing for up to four voices/parts. 
 
 ## Requirements
